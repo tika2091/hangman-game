@@ -1,0 +1,2 @@
+ar Word= ["Elvis Presley", "Michael Jackson", "Mariah Carey", "Madonna", "Prince", "John Lennon", "Freddie Mercury", "Whitney Houston", "Bob Dylan", 
+			"James Brown", "Beyonce", "Elton John", "Bono", "Frank Sinatra", "Eminem", "David Bowie", "Lady Gaga"];
